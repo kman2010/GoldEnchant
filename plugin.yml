@@ -1,0 +1,10 @@
+name: GoldEnchant
+main: me.GoldEnchantTeam.GoldEnchant.GoldEnchant
+version: 0.01
+website: http://www.2kool4u.net/
+description: lets you enchant golden items
+authors:
+  - kman2010
+  - robin0van0der0v
+  - rakiru
+  - fregaPT
